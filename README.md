@@ -12,7 +12,7 @@
 
 <!-- Holographic Profile Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ3dG1hY2ZtZ3F2Z2h4dW5zZ2x4bWx4Y2J5d2V6eWx6eGJ2c3F1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius:50%;border:5px solid #00F7FF;box-shadow:0 0 20px #00F7FF" alt="Holographic Avatar" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemUycTI0bGVuMTRyamk2MHc2Z2JlbnhiOWN5dTJnd2tsMnRvamFtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="200" style="border-radius:50%;border:5px solid #00F7FF;box-shadow:0 0 20px #00F7FF" alt="Holographic Avatar" />
   
   <h2>⚡ CYBER PROFILE INITIALIZED ⚡</h2>
   
@@ -61,7 +61,6 @@
 ---
 
 <!-- Animated Snake Contribution Graph -->
-<h3 align="center">🐍 CODE SNAKE 🐍</h3>
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://github.com/Amir-Ranjbr/Amir-Ranjbr/blob/output/github-contribution-grid-snake.svg" /></div>
