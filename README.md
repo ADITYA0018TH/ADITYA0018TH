@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Aditya Raj and I'm a FullStack Dev, from Bihar, India </h2>
+<h2 align="left">Hi 👋! My name is Aditya Raj<br>
+  I'm a FullStack Dev<br>
+  From Bihar, India </h2>
 
 ###
 
@@ -9,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRqYmtkbDlvdjV6NDltbjZ6Y2l2ejVlbTgxM3Z5MjRuc3Vuazc2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
 
 ###
 
@@ -44,7 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 A white circle with a dark file icon outlined in the center
