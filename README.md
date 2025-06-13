@@ -1,51 +1,83 @@
-<h2 align="left">Hi 👋! My name is Aditya Raj<br>
-  I'm a FullStack Dev<br>
-  From Bihar, India </h2>
+<!-- Futuristic Header Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Aditya+Raj!;Full+Stack+Developer+%7C+Tech+Adventurer;Let's+Build+the+Future+Together!;" align="center" />
 
-###
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79890427/218319219-4812b32d-f8f4-4b59-bc29-e72c5b7d89c1.gif" width="1000" />
+</p>
+
+---
+
+<h2 align="left">Hi 👋, I'm Aditya Raj</h2>
+<h3 align="left">🚀 Full Stack Developer | 🛸 Tech Explorer from Bihar, India</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ADITYA0018TH&style=flat-square&color=00F7FF" alt="Profile Views" />
+</p>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ADITYA0018TH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="Aditya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA0018TH&layout=compact&theme=radical&hide_border=false" height="150" alt="Aditya's top languages" />
 </div>
 
-###
+<br/>
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRqYmtkbDlvdjV6NDltbjZ6Y2l2ejVlbTgxM3Z5MjRuc3Vuazc2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif"  />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA0018TH&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-###
+<br/>
+
+### 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C#" />
 </div>
 
-###
+<br/>
+
+### 🌐 Connect with Me
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/aditya-raj-17a79a22b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:aditya.raj0018th@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail Badge" />
+  </a>
+  <a href="https://www.youtube.com/@ADITYA0018TH" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube Badge" />
+  </a>
 </div>
-
-###
 
 <br clear="both">
 
+---
 
-###
-A white circle with a dark file icon outlined in the center
+### ⚡ Futuristic Vibes
+- 💻 Building innovative web experiences.
+- 🚀 Passionate about motion design & creative UIs.
+- 🧠 Always learning and pushing tech boundaries.
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Let's+Code+the+Future+Together!;Always+Building+Something+Cool!;FullStack+Developer+%7C+Tech+Adventurer" alt="Typing SVG" />
+</div>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<div align="center">
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/output/snake.svg" alt="Snake animation" />
+</div>
+</div>
