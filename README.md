@@ -12,7 +12,7 @@
 
 <!-- Holographic Profile Section -->
 <div align="center">
-  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemUycTI0bGVuMTRyamk2MHc2Z2JlbnhiOWN5dTJnd2tsMnRvamFtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)" width="200" style="border-radius:50%;border:5px solid #00F7FF;box-shadow:0 0 20px #00F7FF" alt="Holographic Avatar" />
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)
   
   <h2>⚡ CYBER PROFILE INITIALIZED ⚡</h2>
   
