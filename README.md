@@ -30,6 +30,12 @@
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px;">
   <!-- Row 1 -->
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt="HTML5" class="badge"/>
+<img
+    src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white"
+    alt="CSS3" class="badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 10px #F7DF1E)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 10px #007ACC)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 10px #61DAFB)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'" />
