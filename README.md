@@ -12,7 +12,7 @@
 ---
 
 <!-- Holographic Profile Section -->
-
+<center>
   
   <h2>⚡ CYBER PROFILE INITIALIZED ⚡</h2>
   
@@ -22,7 +22,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA0018TH&theme=nightowl&hide_border=true&background=000000&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF" alt="Streak" />
   </div>
 </div>
-
+</center>
 ---
 
 <!-- Tech Grid with Hover Effects -->
