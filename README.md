@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&duration=4000&pause=1000&color=00F7FF&background=000000&center=true&vCenter=true&width=1200&height=100&lines=%F0%9F%9A%80+ADITYA+RAJ;FULL+STACK+DEVELOPER+%E2%9D%AF+TECH+INNOVATOR;BUILDING+DIGITAL+WORLDS+%F0%9F%92%BB" alt="Cosmic Typing Header" />
 </div>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=ADITYA0018TH&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rishavbibhuti" /> 
+</p>
 
 <!-- Matrix Rain Animation -->
 <div align="center">
