@@ -73,10 +73,6 @@
 
 <div align="center">
 
-```bash
-┌──(ADITYA0018TH@dev)-[~/contributions]
-└─$ ./turtle_animation.sh --show-commits
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/output/github-contribution-grid-snake-dark.svg">
