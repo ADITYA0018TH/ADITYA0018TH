@@ -69,10 +69,22 @@
 
 ---
 
-<!-- Animated Snake Contribution Graph -->
+##  **Contribution Snake Animation**
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://github.com/Amir-Ranjbr/Amir-Ranjbr/blob/output/github-contribution-grid-snake.svg" /></div>
+
+```bash
+┌──(ghanshyam@dev)-[~/contributions]
+└─$ ./turtle_animation.sh --show-commits
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
