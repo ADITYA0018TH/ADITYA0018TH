@@ -1,85 +1,76 @@
 
-<!-- Retro Header -->
+<!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=PLAYER%20SELECT:%20ADITYA&fontSize=50&fontAlign=50&fontAlignY=50&desc=LEVEL%2099%20FULL%20STACK%20MAGE&descAlign=50&descAlignY=80&animation=fadeIn&stroke=000000&strokeWidth=2" width="100%" alt="Retro Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=300&section=header&text=Aditya%20Raj&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Tech%20Innovator&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 </div>
 
-<!-- 8-Bit Typing -->
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=900&lines=LOADING+CHARACTER+PROFILE...;INSERT+COIN+TO+CONTINUE...;PRESS+START+TO+VIEW+CODE...;READY+PLAYER+ONE!" alt="Pixel Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=33FF57&center=true&vCenter=true&width=800&lines=Building+Digital+Worlds...;Crafting+Code+with+Passion...;Innovating+for+the+Future...;System.out.println(%22Hello+World!%22);" alt="Typing SVG" />
 </div>
 
 ---
 
-<!-- Character Stats & Inventory Layout -->
+<!-- About Me & Visual Section -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <!-- Character Card -->
-    <td width="50%" valign="top">
-      <h2>� Character Stats</h2>
-      <pre>
-Name:    Aditya Raj
-Class:   Technomancer (Full Stack)
-Guild:   Open Source
-Level:   ⭐⭐⭐⭐⭐ (Max)
-HP:      [❤️❤️❤️❤️❤️] (Coffee)
-MP:      [⚡⚡⚡⚡⚡] (Code)
-XP:      [||||||||||] (Loading...)
-      </pre>
+    <td width="55%" valign="center">
+      <h2>👋 About Me</h2>
+      <p>
+        I am a passionate <b>Full Stack Developer</b> who loves transforming ideas into reality through code. 
+        Whether it's building complex web applications, designing intuitive UIs, or exploring the depths of backend logic, I'm always up for a challenge.
+      </p>
       <br>
-      <h3>📜 Active Quests</h3>
-      <ul>
-        <li>Deploying Scalable Clouds ☁️</li>
-        <li>Mastering AI Dungeons 🤖</li>
-        <li>Crafting User Interfaces 🎨</li>
-      </ul>
+      <p>
+        Currently learning: <b>Advanced Cloud Architecture & AI Integration</b><br>
+        Ask me about: <b>React, Node.js, Python, & Cybersecurity</b>
+      </p>
       <br>
-      <h3>📡 Transmission Link</h3>
-      <!-- 8-Bit Social Buttons -->
+      <!-- Socials in Cell -->
       <a href="https://www.linkedin.com/in/aditya-raj-17a79a22b">
-        <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <a href="mailto:aditya.raj0018th@gmail.com">
-        <img src="https://img.shields.io/badge/EMAIL-SEND_MSG-red?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
-    
-    <!-- Inventory Grid -->
-    <td width="50%" valign="top" align="center">
-      <h2>🎒 Inventory (Skills)</h2>
-      <br>
-      <div align="center">
-        <!-- Skill "Items" -->
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,python,cpp,java,html,css,redux&perline=5" alt="Primary Weapons" />
-          <br><br>
-          <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vscode,mongodb,firebase,mysql,postman&perline=5" alt="Secondary Gear" />
-        </a>
-      </div>
-      <br>
-      <h3>🏆 Achievements</h3>
-      <div align="center">
-         <img src="https://github-profile-trophy.vercel.app/?username=ADITYA0018TH&theme=gruvbox&no-frame=true&column=4&margin-w=10&margin-h=10" alt="Trophies" />
-      </div>
+    <td width="45%" align="center">
+      <!-- Cool GIF Placeholder -->
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- Battle Records (Stats) -->
-<h2 align="center">⚔️ Battle Records</h2>
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,cpp,java,mongodb,firebase,mysql,git,github,vscode,postman,linux,docker,aws&perline=10" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+<!-- Github Stats -->
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <!-- Retro Theme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ADITYA0018TH&show_icons=true&theme=gruvbox&hide_border=false&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019" height="160" alt="Stats Board" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA0018TH&theme=gruvbox&hide_border=false&background=282828&stroke=fabd2f&ring=fe8019&fire=fe8019&currStreakNum=ebdbb2&sideNums=ebdbb2&currStreakLabel=fabd2f" height="160" alt="Streak Board" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ADITYA0018TH&show_icons=true&theme=radical&hide_border=true&bg_color=141321&title_color=fe428e&text_color=a9fef7&icon_color=fe428e" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA0018TH&theme=radical&hide_border=true&background=141321&stroke=fe428e&ring=fe428e&fire=fe428e&currStreakNum=a9fef7&sideNums=a9fef7&currStreakLabel=fe428e" height="150" alt="Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ADITYA0018TH&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 ---
 
-<!-- Snake Game -->
-<h2 align="center">🐍 Mini-Game: Contribution Snake</h2>
+<!-- Snake Animation -->
+<h2 align="center">🐍 Contribution Activity</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/output/github-contribution-grid-snake-dark.svg">
@@ -90,7 +81,7 @@ XP:      [||||||||||] (Loading...)
 
 ---
 
-<!-- Pixel Footer -->
+<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,25,30&height=120&section=footer&text=GAME%20OVER&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=100&section=footer" width="100%" />
 </div>
