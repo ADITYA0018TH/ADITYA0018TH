@@ -74,7 +74,7 @@
 <div align="center">
 
 ```bash
-┌──(ghanshyam@dev)-[~/contributions]
+┌──(ADITYA0018TH@dev)-[~/contributions]
 └─$ ./turtle_animation.sh --show-commits
 ```
 
