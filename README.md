@@ -1,97 +1,82 @@
-[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)
-<!-- Cosmic Animated Header -->
+
+<!-- Banner or Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&duration=4000&pause=1000&color=00F7FF&background=000000&center=true&vCenter=true&width=1200&height=100&lines=%F0%9F%9A%80+ADITYA+RAJ;FULL+STACK+DEVELOPER+%E2%9D%AF+TECH+INNOVATOR;BUILDING+DIGITAL+WORLDS+%F0%9F%92%BB" alt="Cosmic Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&vCenter=true&multiline=true&width=800&height=100&lines=System.out.println(%22Welcome+to+Aditya's+Cyber+Profile%22)%3B;Initializing+Full+Stack+Protocols...;Loading+Creativity.exe...;Connection+Established." alt="Typing SVG" />
 </div>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=ADITYA0018TH&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="rishavbibhuti" /> 
+
+<!-- Profile Views & Socials -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ADITYA0018TH&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- Matrix Rain Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/main/matrix.gif" width="100%" height="300px" alt="Matrix Code Rain" />
-</div>
-
 ---
 
-<!-- Holographic Profile Section -->
-<center>
+<div align="center">
   
-  <h2>⚡ CYBER PROFILE INITIALIZED ⚡</h2>
+  ## ⚡ SYSTEM STATUS: ONLINE ⚡
   
-  <!-- Animated Stats Cards -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ADITYA0018TH&show_icons=true&theme=nightowl&hide_border=true&bg_color=000000&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF" alt="Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA0018TH&theme=nightowl&hide_border=true&background=000000&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF" alt="Streak" />
+  > *"Code is like humor. When you have to explain it, it’s bad."*
+
+  <br>
+
+  <!-- GitHub Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ADITYA0018TH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&icon_color=00F0FF" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA0018TH&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00F0FF" height="150" alt="Streak Stats" />
   </div>
-</div>
-</center>
----
 
-<!-- Tech Grid with Hover Effects -->
-<h3 align="center">🛠 TECH MATRIX 🛠</h3>
+  <br>
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px;">
-  <!-- Row 1 -->
-  <img
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-    alt="HTML5" class="badge"/>
-<img
-    src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white"
-    alt="CSS3" class="badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 10px #F7DF1E)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 10px #007ACC)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 10px #61DAFB)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'" />
-  
-  <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 10px #339933)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 10px #3776AB)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 10px #00599C)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ADITYA0018TH&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+
 </div>
 
 ---
 
-<!-- 3D Network Section -->
-<h3 align="center">🌐 CYBER NETWORK 🌐</h3>
+### 🛠️ TECH STACK ARSENAL
 
 <div align="center">
-  <!-- Glowing Social Links -->
+
+| **Frontend** | **Backend** | **Tools & Others** |
+| :---: | :---: | :---: |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
+</div>
+
+---
+
+### 🐍 CONTRIBUTION ACTIVITY
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 🌐 CONNECT WITH ME
+
+<div align="center"> 
   <a href="https://www.linkedin.com/in/aditya-raj-17a79a22b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" style="filter: drop-shadow(0 0 8px #0A66C2); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.filter='drop-shadow(0 0 15px #0A66C2)'" onmouseout="this.style.transform='none'; this.style.filter='drop-shadow(0 0 8px #0A66C2)'" />
-  </a>
-  <a href="mailto:aditya.raj0018th@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" style="filter: drop-shadow(0 0 8px #EA4335); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.filter='drop-shadow(0 0 15px #EA4335)'" onmouseout="this.style.transform='none'; this.style.filter='drop-shadow(0 0 8px #EA4335)'" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="mailto:aditya.raj0018th@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.youtube.com/@ADITYA0018TH" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube" style="filter: drop-shadow(0 0 8px #FF0000); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.filter='drop-shadow(0 0 15px #FF0000)'" onmouseout="this.style.transform='none'; this.style.filter='drop-shadow(0 0 8px #FF0000)'" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
 </div>
 
 ---
 
-##  **Contribution Snake Animation**
-
 <div align="center">
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<!-- Terminal Animation -->
-<h3 align="center">💻 VIRTUAL TERMINAL</h3>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ADITYA0018TH/ADITYA0018TH/main/terminal.gif" width="600" alt="Terminal Animation" />
-</div>
-
-<!-- Cyberpunk Footer -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00F7FF&background=000000&center=true&vCenter=true&width=1000&height=100&lines=SYSTEM+STATUS%3A+ONLINE;CONNECTION+ESTABLISHED;AWAITING+YOUR+NEXT+COMMAND..." alt="Terminal Typing" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%" />
 </div>
