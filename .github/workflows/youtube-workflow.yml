@@ -14,7 +14,7 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@v1
               with:
                   comment_tag_name: "YOUTUBE-VIDEOS"
-                  feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC_YOUR_CHANNEL_ID_HERE"
+                  feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCb2Vyp_D-9uX3YZU5BdkkDg"
                   custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
                   date_format: "mmm d, yyyy"
                   template: "$newline- [$title]($url) - $date"

@@ -81,6 +81,13 @@
 
 ---
 
+<!-- Last video section -->
+<h2 align="center">📺 Latest YouTube Videos</h2>
+<!-- YOUTUBE-VIDEOS:START -->
+<!-- YOUTUBE-VIDEOS:END -->
+
+---
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=100&section=footer" width="100%" />
