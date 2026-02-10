@@ -79,12 +79,6 @@
   </picture>
 </div>
 
----
-
-<!-- Last video section -->
-<h2 align="center">📺 Latest YouTube Videos</h2>
-<!-- YOUTUBE-VIDEOS:START -->
-<!-- YOUTUBE-VIDEOS:END -->
 
 ---
 
