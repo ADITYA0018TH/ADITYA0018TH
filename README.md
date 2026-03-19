@@ -62,11 +62,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ADITYA0018TH&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
-
 ---
 
 <!-- Snake Animation -->
